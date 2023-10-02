@@ -2,6 +2,8 @@
 
 ---
 
+![Voltron_Example](http://i.imgur.com/9nukztA.png)
+
 ### Introduction
 
 Voltron is a useful debugger. Check it out!
