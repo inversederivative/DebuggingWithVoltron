@@ -33,3 +33,13 @@ ALT + SHIFT + "-" -> split the window vertically
 
 ---
 
+### Use in Windows with WSL
+
+This tool is especially useful, because you can use it in Windows with WSL. 
+
+The idea is, for example, you're working on a project in CLion, or another IDE, and you use WSL as
+your toolchain. When you launch the debugger to debug stuff with CLion, for example, you can view 
+all of the views in Voltron while stepping through the code with CLion. 
+
+---
+
