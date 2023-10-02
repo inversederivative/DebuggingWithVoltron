@@ -2,7 +2,7 @@
 
 ---
 
-![Voltron_Example](http://i.imgur.com/9nukztA.png)
+![Voltron_Example](images/Voltron_Debugger.png)
 
 ### Introduction
 
