@@ -22,6 +22,11 @@ See ... https://github.com/snare/voltron/tree/master for more info.
 ALT + SHIFT + "+" -> split the window horizontally
 ALT + SHIFT + "-" -> split the window vertically
 
+ALT + Left   ->  Move to the left window
+ALT + Right  ->  Move to the right window
+ALT + Up     ->  Move to the top window
+ALT + Down   ->  Move to the bottom window
+
 ---
 
 ### Voltron Commands
